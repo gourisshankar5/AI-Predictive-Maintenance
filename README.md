@@ -2,7 +2,7 @@
 Hackathon prototype 2025
 
 Execution Rules for the prototype
-1.) open the code through python and open Python terminal.
+1.) open the code through python and open Python terminal and execute the below commands.
 2.) pip install streamlit
 3.) pip install pandas
 4.) pip install numpy
